@@ -1,6 +1,6 @@
-# AIC8800D80 USB WiFi Driver for Linux (Kernel 6.15+)
+# AIC8800D80 USB WiFi Driver for Linux (Kernel 6.18)
 
-A patched Linux driver for the **AIC8800D80** chipset, tested with the **CUDY WU900** USB WiFi adapter. Forked from [goecho/aic8800_linux_drvier](https://github.com/goecho/aic8800_linux_drvier) with fixes for modern kernels (6.15 – 6.17+).
+A patched Linux driver for the **AIC8800D80** chipset, tested with the **CUDY WU900** USB WiFi adapter. Forked from [goecho/aic8800_linux_drvier](https://github.com/goecho/aic8800_linux_drvier) with fixes for modern kernels (6.18).
 
 ## Supported Hardware
 
@@ -20,7 +20,7 @@ Other AIC8800D80-based adapters (USB IDs `a69c:5721`, `a69c:5723`) should also w
 
 ## Requirements
 
-- Linux kernel **6.15+** (tested on 6.17.0)
+- Linux kernel **6.18** (tested on 6.18.0)
 - Kernel headers and build tools
 
 ```bash
