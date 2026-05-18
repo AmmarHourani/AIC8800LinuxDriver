@@ -19,6 +19,8 @@ sudo pacman -S linux-headers base-devel git
 
 ## Installation
 
+download .zip and extract it to a directory , then
+
 ```bash
 cd aic8800d80
 make
