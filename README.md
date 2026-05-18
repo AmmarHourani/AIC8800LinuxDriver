@@ -20,7 +20,6 @@ sudo pacman -S linux-headers base-devel git
 ## Installation
 
 ```bash
-git clone https://github.com/Xanderful/aic8800d80.git
 cd aic8800d80
 make
 sudo make install
