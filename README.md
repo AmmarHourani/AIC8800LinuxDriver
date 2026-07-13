@@ -19,11 +19,17 @@ sudo pacman -S linux-headers base-devel git
 
 ## Installation
 
-download .zip and extract it to a directory , then
+download .zip and extract it to a directory , then make and install
 
 ```bash
+cd ~
+
+git clone https://github.com/AmmarHourani/AIC8800LinuxDriver.git
+
 cd aic8800d80
+
 make
+
 sudo make install
 ```
 
