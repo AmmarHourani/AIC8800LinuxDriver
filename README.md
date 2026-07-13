@@ -1,4 +1,4 @@
-# AIC8800D80 USB WiFi Driver for Linux (Kernel 6.18)
+# AIC8800D80 USB WiFi Driver for Linux (Kernel 6.18) 64 bit
 
 
 ## Requirements
