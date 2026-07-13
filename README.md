@@ -19,7 +19,7 @@ sudo pacman -S linux-headers base-devel git
 
 ## Installation
 
-download .zip and extract it to a directory , then make and install
+Clone repo , then make and install
 
 ```bash
 cd ~
